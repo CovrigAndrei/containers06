@@ -114,7 +114,7 @@ Am verificat funcționarea site-ului în browser, trecând la adresa `http://loc
 
 Am creat în directorul `containers06` fișierul `README.md` care conține descrierea pas cu pas a proiectului. 
 
-## Răspundeți la întrebările:
+## Răspuns la întrebări
 
 1. În ce ordine sunt pornite containerele?
 
