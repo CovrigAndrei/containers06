@@ -119,6 +119,7 @@ Am creat în directorul `containers06` fișierul `README.md` care conține descr
 1. În ce ordine sunt pornite containerele?
 
 Docker Compose pornește containerele în ordinea în care sunt definite în fișierul `docker-compose.yml` (de sus în jos): `frontend`, `backend`, `database`.
+
 ![Site](./images/image02.png)
 
 2. Unde sunt stocate datele bazei de date?
